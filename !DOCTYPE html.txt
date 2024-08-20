@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>价目表</title>
+</head>
+<body>
+    <h1>价目表</h1>
+    <ul>
+        <li>1——刷课：50元/科(PS:请提供学校多层次信息化平台的账号和密码，安全请尽可放心！）</li>
+        <li>2——华理健康跑：200元（晨跑和常规跑各30次，不支持只刷一个。）</li>
+        <li>3——PPT制作：60元一次（PS：请提供大纲及相应要求，越详细越好）</li>
+        <li>4——代体测：引体向上：3元/个（可指定个数）；1000米跑：70元/次（稳定在3.30）</li>
+        <li>5——Welearn代作：100元（PS:可要求正确率）</li>
+        <li>6——超值优惠：老客户可以享受95折优惠，老客户介绍新客户2人及以上永久享受9折优惠！</li>
+        <li>7——咨询更多信息请加QQ:3779529639</li>
+    </ul>
+</body>
+</html>
